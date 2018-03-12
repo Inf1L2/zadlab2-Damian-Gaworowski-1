@@ -1,3 +1,5 @@
+package pl.edu.ur.main;
+
 import static java.time.Clock.system;
 import java.util.Scanner;
  

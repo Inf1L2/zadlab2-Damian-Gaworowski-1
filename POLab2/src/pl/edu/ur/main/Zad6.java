@@ -1,3 +1,5 @@
+package pl.edu.ur.main;
+
 import java.util.Scanner;
 
 
